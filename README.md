@@ -1,3 +1,5 @@
+# Server avalilable on Heroku:
+http://server-catstronauts-co.herokuapp.com/
 # Odyssey Lift-off V (Server): Road to production
 
 Welcome to the companion app of Odyssey Lift-off V (server)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
