@@ -1,4 +1,4 @@
-# Server avalilable on Heroku:
+# Server available on Heroku:
 http://server-catstronauts-co.herokuapp.com/
 # Odyssey Lift-off V (Server): Road to production
 
